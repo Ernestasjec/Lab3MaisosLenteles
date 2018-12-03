@@ -41,7 +41,7 @@ import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
 import javafx.stage.WindowEvent;
-import laborai.demo.GreitaveikosTyrimas;
+import Lab3_Jecka_Ernestas.GreitaveikosTyrimas;
 import laborai.studijosktu.MapKTU;
 import laborai.studijosktu.MapKTUOAx;
 import laborai.studijosktu.MapKTUx;
